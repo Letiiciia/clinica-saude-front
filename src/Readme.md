@@ -14,6 +14,8 @@ Basta abrir o arquivo index.html em qualquer navegador.
 
 Estrutura do Projeto
 
+
+
 /
 ├── index.html   # Arquivo principal da página
 ├── styles.css   # Arquivo de estilos
