@@ -12,13 +12,6 @@ Como Visualizar a Página
 
 Basta abrir o arquivo index.html em qualquer navegador.
 
-Estrutura do Projeto
-
-/
-├── index.html   # Arquivo principal da página
-├── styles.css   # Arquivo de estilos
-├── imagens/     # Pasta com imagens utilizadas na página
-
 Funcionalidades
 
 Exibição dos serviços oferecidos pela clínica
