@@ -1,4 +1,4 @@
-<h1 align="center">🚀 >Clínica +Saude - Página Estática 🚀</h1
+<h1 align="center">🚀 Clínica +Saude - Página Estática 🚀</h1
 
 <p align="center">Este repositório contém o código-fonte de uma página estática para a Clínica +Saude. O objetivo desta página é apresentar os serviços da clínica, sua equipe médica e permitir o agendamento de consultas.</p>
 
